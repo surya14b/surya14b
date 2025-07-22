@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Software Developer | Backend Specialist | Scalable Systems Architect  <br>💬 Ask me about Web Development,DSA,AWS, System Design<br>⚡ AWS Certified Developer<br>🌟 Passionate about building robust and secure software solutions
+🎯 Software Developer | Data Engineer <br>⚡ AWS Certified Developer<br>🌟 Passionate about building robust and secure software solutions
 
 
 ## 🌐 Socials:
